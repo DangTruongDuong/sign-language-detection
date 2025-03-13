@@ -1,0 +1,9 @@
+collect_imgS.PY ĐỂ THU THẬP DỮ LIỆU ẢNH CỦA DATA
+
+create_dataset.PY ĐỂ TẠO DATA TỪ DỮ LIỆU ẢNH
+
+train_classifier.py ĐỂ TRAIN AI
+
+inference_classifier.py ĐỂ MỞ THƯ VIÊN OPENVC NHẬN DẠNG CỬ CHỈ TAY
+
+youtube :https://www.youtube.com/watch?v=MJCSjXepaAM
